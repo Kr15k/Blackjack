@@ -1,0 +1,4 @@
+input for name and money
+dealer plays agains you
+win and lose money (go bankrupt if you use up all you money)
+store wins and losses
